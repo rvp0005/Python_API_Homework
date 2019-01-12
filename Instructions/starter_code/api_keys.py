@@ -1,6 +1,1 @@
-# OpenWeatherMap API Key
-<<<<<<< HEAD
-api_key = ""
-=======
-api_key = ""
->>>>>>> 581c97fbb5cc6e4ac3c68fb24578174584d6b33c
+api_key = "5e7ef8e1d5a91d99ab5c297688e47482"
